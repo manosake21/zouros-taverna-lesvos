@@ -1,2 +1,18 @@
-# zouros-taverna-lesvos
-Website project for Zouros Traditional Tavern, Vatera Lesvos
+# Ταβέρνα Ζούρος
+
+## Στ. Επ.
+- Διεύθυνση: Βατέρα, Λέσβος 81300, Ελλάδα
+- Τηλέφωνο: 22520 61259 / 694 6000 901
+- Email: info@zourostaverna.gr
+
+## Γιατί χρειάζεται το site
+Οικογενειακή επιχείρηση από το 1961, 4.8/5 σε 228+ κριτικές και παραθαλάσσια εμπειρία. Ένα πιο σύγχρονο site μπορεί να ενισχύσει την άμεση ανακάλυψη και τις κρατήσεις.
+
+## Website quality
+Existing simple site; redesign opportunity
+
+## Lead score
+85/100
+
+## Τιμή site
+€250 (εφάπαξ)
