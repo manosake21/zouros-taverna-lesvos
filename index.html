@@ -189,6 +189,10 @@ footer{background:var(--dp-text);color:var(--dp-bg);border-top:4px solid var(--d
 @media(max-width:700px){.hero{min-height:620px;margin-inline:.35rem;}.hero .content{padding:2rem 1.25rem;}.hero h1{font-size:clamp(2.8rem,15vw,5rem);}section{padding-block:4rem;}}
 @media(prefers-reduced-motion:reduce){.cta:hover,.cta:focus-visible{transform:none;}}
 </style>
+
+<style id="production-hardening">
+html{scroll-padding-top:5rem} body{overflow-x:hidden;text-wrap:pretty} a,button{min-height:44px} @supports not (background:color-mix(in srgb,#000 50%,#fff)){header{background:var(--dp-bg)!important;border-color:rgba(0,0,0,.14)!important}} @media (max-width:760px){.container,.wrap{padding-left:1.25rem!important;padding-right:1.25rem!important}.nav,.navlinks,.actions,.cta{gap:.75rem}.btn,.cta a{min-height:46px;display:inline-flex;align-items:center;justify-content:center}}
+</style>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Μετάβαση στο κύριο περιεχόμενο</a>
